@@ -1,2 +1,0 @@
-easy-light-framework
-====================
